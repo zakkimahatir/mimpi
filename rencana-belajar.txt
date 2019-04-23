@@ -1,3 +1,5 @@
 - belajar php
 - belajar javascript
+  *ES6
+  *ReactJS
 - belajar laravel
